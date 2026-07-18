@@ -1,0 +1,97 @@
+{
+  "basics": {
+    "name": "Lucas Xavier Pittas",
+    "email": "lucas_xavier@egresso.ufg.br",
+    "phone": "",
+    "website": "https://lucasxavier-debug.github.io",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Rio Verde",
+      "countryCode": "BR",
+      "region": "Goiás"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "Lucas Xavier Pittas",
+        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": ""
+      },
+      {
+        "network": "GitHub",
+        "username": "lucasxavier-debug",
+        "url": "https://github.com/lucasxavier-debug"
+      }
+    ]
+  },
+  "work": [],
+  "education": [
+    {
+      "institution": "Instituto Federal Goiano - Campus Rio Verde /Goiano Federal Institute (IFgoiano)",
+      "area": "Master's student in Agrochemistry",
+      "studyType": "Stricto Sensu",
+      "program": "Programa de Pós-Graduação em Agroquímica (PPGAq)",
+      "startDate": "2025",
+      "endDate": "Atual",
+      "gpa": null,
+      "courses": []
+    },
+    {
+      "institution": "Universidade Federal de Goiás/Federal University of Goiás (UFG)",
+      "area": "Bachelor in physics",
+      "studyType": "Undergraduate",
+      "startDate": "2012",
+      "endDate": "2022",
+      "gpa": null,
+      "courses": []
+    }
+  ],
+  "skills": [],
+  "languages": [
+    {
+      "language": "Portuguese",
+      "fluency": "Native/fluent"
+    },
+    {
+      "language": "English",
+      "fluency": "Intermediate B1"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Intermediate B1"
+    }
+  ],
+  "interests": [
+    "Theoretical Physics",
+    "DFT",
+    "Quantum Mechanics",
+    "Statistical Mechanics",
+    "Quantum computation",
+    "Theoretical physics applied in Chemistry",
+    "Classical mechanics",
+    "Classical Physics"
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "Contaminação de água subterrânea e solos por sistemas de disposição de resíduos sólidos urbanos",
+      "publisher": "Revista Interação Interdisciplinar (ISSN: 2526-9550)",
+      "releaseDate": "2025-02-01",
+      "website": "https://publicacoes.unifimes.edu.br:443/index.php/interacao/article/view/2930",
+      "summary": "Este trabalho realiza um levantamento bibliográfico sobre os principais agentes poluentes da água subterrânea e do solo, destacando os impactos ambientais e estruturais resultantes da disposição inadequada de resíduos."
+    },
+    {
+      "name": "A brief introduction to Circuit quantum electrodynamics - Undergraduate's Monograph",
+      "publisher": "Federal University of Goiás",
+      "releaseDate": "2021-11-11"
+    }
+  ],
+  "presentations": [],
+  "teaching": [],
+  "portfolio": []
+}
