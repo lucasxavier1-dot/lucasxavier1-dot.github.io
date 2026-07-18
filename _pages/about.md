@@ -17,7 +17,6 @@ My current research lies at the intersection of **Theoretical Physics** and **Co
 
 * **Density Functional Theory (DFT):** Application of computational simulations to investigate electronic, structural, and thermodynamic properties of molecules.
 * **Quantum & Statistical Mechanics:** Exploring microscopic behaviors and theoretical frameworks applied to chemical systems.
-* **Quantum Computation:** Investigating how quantum computing architectures can optimize complex molecular calculations.
 * **Environmental Physics/Chemistry:** Computational study of molecular interactions regarding soil and groundwater contaminants.
 
 ---
