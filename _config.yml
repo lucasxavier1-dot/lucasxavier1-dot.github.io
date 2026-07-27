@@ -6,10 +6,6 @@
 # `jekyll serve -l -H localhost`. If you change this file, please restart the 
 # server process.
 
-<head>
-    <meta name="google-site-verification" content="7MEc2OeFdEChv-ABJa-losrewecawIElCY3ofuaN6So" />
-</head>
-
 # Basic Site Settings
 locale                   : "pt-BR"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
